@@ -1,3 +1,3 @@
 # python-pacman
 
-Made with pygame
+Small project made with pygame
